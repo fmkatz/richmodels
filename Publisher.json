@@ -1,6 +1,6 @@
 {
 	"ClassDefinition": {
-		"OneLiner": "\n        A collection of objects and related properties.\n    ",
+		"OneLiner": "<p>An organization or person who makes books available to the public.</p>",
 		"FullDefinition": "\n        A Rich Class is a collection of objects and prototypical properties.\n    ",
 		"Attributes": [
 			{
@@ -11,7 +11,7 @@
 					"Datatype": {
 						"isRequired": "yes",
 						"AggregationType": "scalar",
-						"BaseType": "\n                    Type goes here\n                "
+						"BaseType": "Text"
 					},
 					"Constraints": [
 						{
