@@ -26,6 +26,12 @@
 							"Class": {
 								"Name": "Publisher"
 							}
+						},
+						{
+							"Class": {
+								"Name": "Place",
+								"OneLiner": "<p>The city or state in which the book was published</p>"
+							}
 						}
 					]
 				}
