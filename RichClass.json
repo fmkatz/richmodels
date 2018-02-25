@@ -56,6 +56,21 @@
 						}
 					]
 				}
+			},
+			{
+				"Attribute": {
+					"Name": "PoorClassAttribute",
+					"OneLiner": "<p>Added for test</p>",
+					"Datatype": {
+						"isRequired": "yes",
+						"AggregationType": "scalar"
+					},
+					"Constraints": [
+						{
+							"Constraint": {}
+						}
+					]
+				}
 			}
 		]
 	}
