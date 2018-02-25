@@ -1,0 +1,42 @@
+{
+	"ModelDefinition": {
+		"Name": "\n        Rich Modeling\n    ",
+		"OneLiner": "\n        A collection of objects and related properties.\n    ",
+		"FullDefinition": "\n        A Rich Class is a collection of objects and prototypical properties.\n    ",
+		"SubjectAreas": [
+			{
+				"SubjectArea": {
+					"Name": "\n                Area 1\n            ",
+					"OneLiner": "\n                A collection of related classes.\n            ",
+					"FullDefinition": "\n                A Subject Area is a collection of relatedClasses.\n            ",
+					"Classes": [
+						{
+							"Class": {
+								"Name": "\n                        Class 1a\n                    ",
+								"OneLiner": "\n                    "
+							}
+						},
+						{
+							"Class": {
+								"Name": "Class 2a",
+								"OneLiner": "<p>second class in area 1</p>"
+							}
+						}
+					]
+				}
+			},
+			{
+				"SubjectArea": {
+					"Name": "Area 2",
+					"OneLiner": "<p>Second Subject area</p>",
+					"FullDefinition": "<p>Purpose of the second subject area</p>",
+					"Classes": [
+						{
+							"Class": {}
+						}
+					]
+				}
+			}
+		]
+	}
+}
