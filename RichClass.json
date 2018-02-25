@@ -45,7 +45,7 @@
 				"Attribute": {
 					"Name": "FullDefinition",
 					"OneLiner": "<p>A more elaborate definition</p>",
-					"FullDefinition": "<p>Book length description</p>",
+					"FullDefinition": "<p>Book length description, if needed</p>",
 					"Datatype": {
 						"isRequired": "yes",
 						"AggregationType": "scalar"
