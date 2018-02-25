@@ -1,0 +1,28 @@
+{
+	"ClassDefinition": {
+		"OneLiner": "\n        A collection of objects and related properties.\n    ",
+		"FullDefinition": "\n        A Rich Class is a collection of objects and prototypical properties.\n    ",
+		"Attributes": [
+			{
+				"Attribute": {
+					"Name": "\n                Name\n            ",
+					"OneLiner": "<p>The name of the publisher</p>",
+					"FullDefinition": "\n                Use a singular common noun.\n            ",
+					"Datatype": {
+						"isRequired": "yes",
+						"AggregationType": "scalar",
+						"BaseType": "\n                    Type goes here\n                "
+					},
+					"Constraints": [
+						{
+							"Constraint": {
+								"FormalCondition": "\n\n                    ",
+								"InEnglish": "\n\n                    "
+							}
+						}
+					]
+				}
+			}
+		]
+	}
+}
