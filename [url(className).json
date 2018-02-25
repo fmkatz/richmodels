@@ -1,0 +1,42 @@
+{
+	"ClassDefinition": {
+		"OneLiner": "<p>A location from which books are published</p>",
+		"FullDefinition": "<p>Usually and Administrative Area</p>",
+		"Attributes": [
+			{
+				"Attribute": {
+					"Name": "\n                Name\n            ",
+					"Datatype": {
+						"isRequired": "yes",
+						"AggregationType": "scalar",
+						"BaseType": "\n                    Type goes here\n                "
+					},
+					"Constraints": [
+						{
+							"Constraint": {
+								"FormalCondition": "\n\n                    ",
+								"InEnglish": "\n\n                    "
+							}
+						}
+					]
+				}
+			},
+			{
+				"Attribute": {
+					"Name": "ContainedIn",
+					"OneLiner": "<p>A containing area</p>",
+					"Datatype": {
+						"isRequired": "yes",
+						"AggregationType": "scalar",
+						"BaseType": "Place"
+					},
+					"Constraints": [
+						{
+							"Constraint": {}
+						}
+					]
+				}
+			}
+		]
+	}
+}
