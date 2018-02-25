@@ -60,7 +60,7 @@
 			{
 				"Attribute": {
 					"Name": "PoorClassAttribute",
-					"OneLiner": "<p>Added for test</p>",
+					"OneLiner": "<p>Added for test again</p>",
 					"Datatype": {
 						"isRequired": "yes",
 						"AggregationType": "scalar"
