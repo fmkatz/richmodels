@@ -12,13 +12,13 @@
 					"Classes": [
 						{
 							"Class": {
-								"Name": "Class1a",
+								"Name": "Book",
 								"OneLiner": "\n                    "
 							}
 						},
 						{
 							"Class": {
-								"Name": "Class 2a",
+								"Name": "Author",
 								"OneLiner": "<p>second class in area 1</p>"
 							}
 						}
