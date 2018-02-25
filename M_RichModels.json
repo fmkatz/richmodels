@@ -21,6 +21,11 @@
 								"Name": "Author",
 								"OneLiner": "<p>second class in area 1</p>"
 							}
+						},
+						{
+							"Class": {
+								"Name": "Publisher"
+							}
 						}
 					]
 				}
