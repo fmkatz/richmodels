@@ -1,6 +1,6 @@
 {
 	"ClassDefinition": {
-		"Name": "\n        Rich Class\n    ",
+		"Name": "RichClass",
 		"OneLiner": "\n        A collection of objects and related properties.\n    ",
 		"FullDefinition": "\n        A Rich Class is a collection of objects and prototypical properties.\n    ",
 		"Attributes": [
