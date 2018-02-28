@@ -20,6 +20,29 @@
 						}
 					]
 				}
+			],
+			"Section": [
+				{
+					"SectionName": "New Section",
+					"Attribute": [
+						{
+							"AttributeName": "\n                    NameAttribute\n                ",
+							"OneLiner": "\n                        A common noun for the Class.\n                    ",
+							"FullDefinition": "\n                        Use a singular common noun.\n                    ",
+							"Datatype": {
+								"isRequired": "yes",
+								"AggregationType": "scalar",
+								"BaseType": "\n                    Type goes here\n                "
+							},
+							"Constraint": [
+								{
+									"Constraint": "\n                            x < y\n                        ",
+									"InEnglish": "\n                            x smaller than y\n                        "
+								}
+							]
+						}
+					]
+				}
 			]
 		},
 		"AggregationType": "scalar",
