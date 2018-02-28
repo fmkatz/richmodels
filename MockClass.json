@@ -23,6 +23,9 @@
 			]
 		},
 		"AggregationType": "scalar",
-		"SubtypeOf": "Class"
+		"SubtypeOf": [
+			"Class",
+			"Object"
+		]
 	}
 }
