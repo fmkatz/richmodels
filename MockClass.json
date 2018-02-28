@@ -1,0 +1,27 @@
+{
+	"ClassDefinition": {
+		"OneLiner": "\n            A collection of objects and related properties.\n        ",
+		"FullDefinition": "<p>A Rich Class is a collection of objects and prototypical properties. A Rich Class i</p>\n<ul>\n<li>aaa</li>\n<li>cccc</li>\n<li>ddd</li>\n</ul>\n<p>&nbsp;</p>\n<p>s a collection of objects and prototypical properties. A Rich Class is a collection of objects and prototypical properties. A Rich Class is a collection of objects and prototypical properties. A Rich Class is a collection of objects and prototypical properties. A Rich Class is a collection of objects and prototypical properties. A Rich Class is a collection of objects and prototypical properties.</p>",
+		"Attributes": {
+			"Attribute": [
+				{
+					"AttributeName": "\n                NameAttribute\n            ",
+					"OneLiner": "\n                    A common noun for the Class.\n                ",
+					"FullDefinition": "\n                    Use a singular common noun.\n                ",
+					"Datatype": {
+						"isRequired": "yes",
+						"AggregationType": "scalar",
+						"BaseType": "\n                    Type goes here\n                "
+					},
+					"Constraint": [
+						{
+							"Constraint": "\n                        x < y\n                    ",
+							"InEnglish": "\n                        x smaller than y\n                    "
+						}
+					]
+				}
+			]
+		},
+		"AggregationType": "scalar"
+	}
+}
