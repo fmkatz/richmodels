@@ -4,22 +4,34 @@
 		"FullDefinition": "<p>Usually and Administrative Area</p>",
 		"Attributes": [
 			{
-				"Attribute": {
-					"Name": "\n                Name\n            ",
-					"Datatype": {
-						"isRequired": "yes",
-						"AggregationType": "scalar",
-						"BaseType": "\n                    Type goes here\n                "
-					},
-					"Constraints": [
-						{
-							"Constraint": {
-								"FormalCondition": "\n\n                    ",
-								"InEnglish": "\n\n                    "
+				"Attribute": [
+					{
+						"Name": "\n                Name\n            ",
+						"Datatype": {
+							"isRequired": "yes",
+							"AggregationType": "SetOf",
+							"BaseType": "\n                    Type goes here\n                "
+						},
+						"Constraints": [
+							{
+								"Constraint": {
+									"FormalCondition": "\n\n                    ",
+									"InEnglish": "\n\n                    "
+								}
 							}
-						}
-					]
-				}
+						],
+						"Constraint": [
+							{
+								"Constraint": "\n                        x < y\n                    ",
+								"InEnglish": "\n                        x smaller than y\n                    "
+							},
+							{
+								"Constraint": "y > x",
+								"InEnglish": "and y is larger"
+							}
+						]
+					}
+				]
 			},
 			{
 				"Attribute": {
