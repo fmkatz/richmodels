@@ -40,6 +40,30 @@
 									"InEnglish": "\n                            x smaller than y\n                        "
 								}
 							]
+						},
+						{
+							"Datatype": {
+								"isRequired": "yes",
+								"AggregationType": "scalar"
+							},
+							"Constraint": [
+								{}
+							]
+						}
+					],
+					"OneLiner": "<p>A collection of attributes.</p>",
+					"FullDefinition": "<p>A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.A collection of attributes. with a special purpose.</p>"
+				},
+				{
+					"Attribute": [
+						{
+							"Datatype": {
+								"isRequired": "yes",
+								"AggregationType": "scalar"
+							},
+							"Constraint": [
+								{}
+							]
 						}
 					]
 				}
